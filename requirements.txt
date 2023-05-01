@@ -1,0 +1,4 @@
+colorama
+requests
+websocket
+pyfontslibv2
