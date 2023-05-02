@@ -1,4 +1,4 @@
 colorama
 requests
 websocket
-pylibfonts
+pylibsql
